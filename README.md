@@ -10,5 +10,7 @@ della classe: 3HT-i
 Istruzioni per l'esecuzione : 
 
 - scaricare il file, aprirlo con un compilatore di file c++
- *in alternativa*
+
+  **in alternativa**
+
 - copiare il contenuto del file, incollarlo su https://www.onlinegdb.com/online_c++_compiler dopo aver rimosso tutto ciò che viene generato automaticamente
