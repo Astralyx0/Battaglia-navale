@@ -5,6 +5,7 @@ Svolto da:
 - Fabio
 - Lorenzo
 - Riccardo
+  
 della classe: 3HT-i
 
 Istruzioni per l'esecuzione : 
